@@ -42,3 +42,12 @@ The final model achieved **R² = 0.91** on the test set, showing strong predicti
 Predicted price ranges and residual analysis indicate that the model generalizes well and captures the main price patterns in the dataset.
 
 Feature importance analysis showed that **transmission type**, **model year**, and **engine capacity** were the most influential factors.
+
+
+
+## Installation
+
+To run this notebook, install the required packages:
+
+```bash
+pip install -r requirements.txt
