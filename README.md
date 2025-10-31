@@ -51,3 +51,10 @@ To run this notebook, install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Dataset
+
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/saleh846/used-cars-for-sale-data-pakistan)  
+It contains information about used car listings in Pakistan, including engine specifications, body type, mileage, and prices.  
+All preprocessing steps are applied locally; no external API or dynamic data source is used.
